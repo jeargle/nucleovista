@@ -1,0 +1,8 @@
+
+
+/**
+ * Genome browser
+ */
+class NucleoVista {
+
+}
